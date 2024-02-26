@@ -82,7 +82,7 @@ function App() {
           />
 
           <h1
-            className="bg-green-600 px-6 py-1.5 rounded-md shadow-md text-center text-white font-semibold w-[300px]"
+            className="bg-green-600 px-6 py-1.5 rounded-md shadow-md text-center text-white font-semibold w-[300px] cursor-pointer hover:scale-105 transition-all ease-in-out duration-200"
             onClick={handleButtonClick}
           >
             Upload File
