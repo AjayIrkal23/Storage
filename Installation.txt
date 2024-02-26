@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------------
+
+Installation for server
+
+-cd server
+-npm install (to install packages)
+
+once Installation is completed 
+-npm run dev (to start the server)
+
+
+------------------------------------------------------------------------------------------------
+
+Installation for client
+
+-cd client
+-npm install (to install packages)
+
+once Installation is completed 
+-npm run dev (to start the client)
+
+------------------------------------------------------------------------------------------------
+
+dumpData folder is present in server folder where all the files are present after uploading
